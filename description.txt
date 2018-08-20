@@ -1,0 +1,7 @@
+A heavily work-in-progress weapon mod by XSlayer300. This mod currently adds two weapons based from Doom, the Shotgun and the Pistol. But there will be more to come by in further updates...
+
+
+== Credits ==
+Me: Shotgun, Pistol, Bullet Box sprites; Coding
+Id Software: Shotgun box sprite
+Example Mod: Example codes of some assets

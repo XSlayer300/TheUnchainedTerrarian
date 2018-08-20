@@ -1,0 +1,3 @@
+author = XSlayer300
+version = 0.1
+displayName = The Unchained Terrarian
